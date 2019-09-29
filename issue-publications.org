@@ -1,0 +1,15 @@
+Doubled
+______________________________
+* TODO Multifractal finite-size scaling at the Anderson transition in the unitary symmetry class (Doubled)
+* TODO Charge and spin diffusion on the metallic side of the metal-insulator transition: a self consistent approach (Doubled)
+* TODO Effective Dynamics of Disordered Quantum Systems (Doubled)
+* TODO Do twisted laser beams evoke nuclear hyperpolarization? (Doubled)
+* TODO Statistical theory of designed quantum transport across disordered networks (Doubled)
+* TODO Frequency correlations in reflection from random media (Doubled)
+* TODO Matter-wave scattering from interacting bosons in an optical lattice (Doubled)
+* TODO Robust entangled state (Doubled)
+
+
+Wrong or not complete name
+______________________________
+* TODO Universal entanglement decay in atmospheric turbulence (wrong name)

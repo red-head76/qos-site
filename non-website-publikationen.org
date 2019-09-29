@@ -1,0 +1,143 @@
+* TODO Statistical Benchmarks for Quantum Transport in Complex Systems
+* TODO Normal-mode quantum electrodynamics: the quantum vacuum and its consequences
+* TODO Casimir forces at the cutting edge
+* TODO Proceedings of New Perspectives in Quantum Statistics and Correlations
+* TODO Entanglement and Decoherence: Foundations and Modern Trends
+* TODO Mathematische Grundlagen der Quantenmechanik (Mathematical Foundations of Quantum Mechanics) and Quantencomputer (Quantum Computer)
+
+* TODO Atomic Gears:Transferring the spin of light to lateral van der Waals forces
+* TODO Direct measurement of short-range forces with a levitated nanoparticle
+* TODO Non-additivity of optical and Casimir-Polder potentials
+* TODO Open system model for quantum dynamical maps with classical noise and corresponding master equations 
+
+* TODO Multifractality in Fock space of the ground state of the Bose-Hubbard Hamiltonian
+* TODO Effective Polarisability Models
+* TODO Reversed interplay of quantum interference and which-way information in multi-photon entangled states
+* TODO Phase Diagram of Bosons in a 2D Optical Lattice with infinite-range Cavity-mediated Interactions
+* TODO Edge structure of Graphene monolayers in the ν = 0 quantum Hall state
+* TODO Spectral Backbone of Excitation Transport in Ultra-Cold Rydberg Gases
+* TODO Comment on "Non-monotonic projection probabilities as a function of distinguishability"
+* TODO Efficient three-photon excitation of quasi-one-dimensional strontium Rydberg atoms with n∼300
+* TODO Characterizing high-n quasi-one-dimensional strontium Rydberg atoms
+* TODO Optimally designed quantum transport across disordered networks
+* TODO Frustration, Entanglement, and Correlations in Quantum Many Body Systems
+* TODO Production of very-high-n strontium Rydberg atoms
+* TODO Flux conservation in coherent backscattering and weak localisation of light 
+* TODO Quantum transport in biological functional units: noise, disorder, structure
+* TODO Diagrammatic pump-probe approach to coherent backscattering of laser light by cold atoms: Double scattering revisited
+* TODO Disorder-assisted exciton transport
+* TODO Entanglement from density measurements: Analytical density functional for the entanglement of strongly correlated fermions
+* TODO Quantum Mechanics in Metric Space: Wave Functions and Their Densities
+* TODO Feasibility of approximating spatial and local entanglement in long-range interacting systems using the extended Hubbard model
+* TODO Hubbard model as an approximation to the entanglement in nanostructures
+* TODO Detection of high-dimensional genuine multi-partite entanglement of mixed state
+* TODO Scalability of GHZ and random-state entanglement in the presence of decoherence 
+* TODO Single-Particle Interference Can Witness Bipartite Entanglement
+* TODO Ab initio quantum approach to planar helium under periodic driving
+* TODO Spectrum of coherently backscattered light from two atoms
+* TODO The driven three body Coulomb problem
+* TODO Universal quantum computation in decoherence-free subspaces with hot trapped ions
+* TODO Optimal dynamical characterization of entanglement
+* TODO Observable entanglement measure for mixed quantum states
+* TODO Experimental determination of entanglement by a projective measurement
+* TODO Entanglement screening by nonlinear resonances
+* TODO Entanglement dynamics under decoherence: from qubits to qudits
+* TODO Persistent current of atoms in a ring optical lattice
+* TODO Evaluable multipartite entanglement measures: Mulitpartite concurrences as entanglement monotones
+* TODO Resonance-assisted decay of nondispersive wave packets
+* TODO Anomalous slow fidelity decay for symmetry-breaking perturbations
+* TODO Elastic versus inelastic coherent backscattering of laser light by cold atoms: A master-equation treatment
+* TODO Fano interference and cross-section fluctuations in molecular dissociation
+* TODO Scattering fidelity in elastodynamics
+* TODO Quantum Accelerator Modes from the Farey Tree
+* TODO Experimental determination of entanglement with a single measurement
+* TODO Saturation of fidelity in the atom-optics kicked rotor
+* TODO Semiclassical Propagator of the Wigner Function
+* TODO Atomic current across an optical lattice
+* TODO Universal ionization threshold for strongly driven Rydberg states
+* TODO Ericson Fluctuations in an Open Deterministic Quantum System: Theory Meets Experiment
+* TODO Concurrence of mixed multipartite quantum states
+* TODO Nonlinearity-induced destruction of resonant tunneling in the Wannier-Stark problem
+* TODO Long-range fluctuations of random potential landscape as a mechanism of 1/f noise in hydrogenated amorphous silicon
+* TODO Long-Time Behavior of Spin Echo
+* TODO Concurrence of quasipure quantum states
+* TODO Measures and dynamics of entangled states
+* TODO Equlibrium entanglement vanishes at finite temperature
+* TODO Temperature Dependence of the Superconducting Gap in High-Tc Cuprates
+* TODO Ordnung dank Chaos
+* TODO Decay rates of planar helium
+* TODO Coherent Inelastic Backscattering of Intense Laser Light by Cold Atoms
+* TODO Hypothesis of two-dimensional stripe arrangement and its implications for the superconductivity in high-Tc cuprates
+* TODO Decoherence and Multipartite Entanglement
+* TODO Quantum chaos in the Bose-Hubbard model
+* TODO Web-assisted tunneling in the kicked harmonic oscillator
+* TODO Interference of cold atoms released from an optical lattice
+* TODO Environmental effects in the quantum-classical transition for the delta-kicked harmonic oscillator
+* TODO Multiparticle quantum chaos in tilted optical lattices
+* TODO The noise makes the signal: what a small fry should know about stochastic resonance
+* TODO Long-time relaxation on spin lattice as a manifestation of chaotic dynamics
+* TODO New experimental evidence for the role of long-range potential fluctuations in the mechanism of 1/f noise in a-Si:H
+* TODO Concurrence of Mixed Bipartite Quantum States in Arbitrary Dimensions
+* TODO Decoherence as a probe of coherent quantum dynamics
+* TODO Classical Scaling Theory of Quantum Resonances
+* TODO Wehrl entropy, Lieb conjecture, and entanglement monotones
+* TODO Stochastic Resonance (2004!)
+* TODO Interaction-Induced Decoherence of Atomic Bloch Oscillations
+* TODO Floquet-Bloch operator for the Bose-Hubbard model with static field
+* TODO Quantum diffusion in a biased kicked Harper system
+* TODO niversal Long-Time Relaxation on Lattices of Classical Spins: Markovian Behavior on Non-Markovian Timescales
+* TODO Long-range potential fluctuations and 1/f noise in hydrogenated amorphous silicon
+* TODO Bloch oscillations of cold atoms in 2D optical lattices
+* TODO Decay, interference and chaos: How simple atoms mimic disorder
+* TODO New Bloch Period for Interacting Cold Atoms in 1D Optical Lattices
+* TODO Quantum resonances and decoherence for delta-kicked atoms
+* TODO Entanglement of 2xK quantum systems
+* TODO Nondispersive two-electron wavepackets in driven helium
+* TODO Coherent backscattering of light by cold atoms: Theory meets experiment
+* TODO Decay Rates and Survival Probabilities in Open Quantum Systems
+* TODO Microwave ionization of alkali-metal Rydberg states in a realistic numerical experiment
+* TODO Atomic state reduction and energy balance relation in spectrally resolved resonance fluorescence
+* TODO Multiple scattering of light by atoms with internal degeneracy
+* TODO Stochastic Resonance (2002)
+* TODO Coherent Evolution in Noisy Environments
+* TODO Non-dispersive wave packets in periodically driven quantum systems
+* TODO Magnetic Edge States
+* TODO Quantum State Control in Cavity QED
+* TODO Chaotic ionization of non-classical alkali Rydberg states - computational physics beats experiment
+* TODO Spectral cross correlations of magnetic edge states
+* TODO Optical chaos in nonlinear photonic crystals
+* TODO Signatures of Anderson localization in the ionization rates of periodically driven Rydberg states
+* TODO Empirical properties of the variety of a financial portfolio and the single-index- model
+* TODO Separable approximation for mixed states of composite quantum systems
+* TODO Bistability and stochastic resonance in an open quantum system
+* TODO Chaotic ionization of nonhydrogenic alkali Rydberg states
+* TODO Chaotic ionization of nonhydrogenic alkali Rydberg states
+* TODO The exterior and interior edge states of magnetic billiards: spectral statistics and correlations
+* TODO Weak localization of light by cold atoms: The impact of quantum internal structure
+* TODO Algebraic decay of the survival probability in chaotic helium
+* TODO Residual Symmetries in the spectrum of periodically driven alkali Rydberg states
+* TODO The boundary integral method for magnetic billiards
+* TODO Quantum state preparation via asymptotic completeness
+* TODO Stochastic resonance in the coherence of a quantum system
+* TODO Nondispersive two-electron wave packets in the collinear driven helium atom
+* TODO Stable classical configurations in strongly driven helium
+* TODO Stochastic resonance in a fundamental quantum system
+* TODO Comment on "Physical Reality of Light-Induced Atomic States
+* TODO Quasiclassical dynamics of resonantly driven Rydberg states
+* TODO Classical support for non-dispersive two-electron wave packets in the driven helium atom
+* TODO Quantum stochastic resonance in a micromaser
+* TODO Radiative decay of nondispersive wave packets
+* TODO Conductance fluctuations in microwave-driven Rydberg atoms
+* TODO Ionization via chaos assisted tunneling
+* TODO Nondispersive wave packets as solitonic solutions of level dynamics
+* TODO Comment on "New states of hydrogen in a circularly polarized elecromagnetic field"
+* TODO Secular motion of three-dimensional Rydberg states in a microwave field
+* TODO Microwave ionization of 3-d hydrogen atoms in a realistic numerical experiment
+* TODO A wave packet can be a stationary state
+* TODO Nondispersive electronic wave packets in multiphoton processes
+* TODO From coherent to noise-induced microwave ionization of Rydberg atoms
+* TODO Multiple time scales in the microwave ionization of Rydberg atoms
+* TODO Spectral aspects of the microwave ionization of atomic Rydberg states
+* TODO Wave functions of atomic resonances
+* TODO Experimental study of quantum and classical limits in the microwave ionization of rubidium Rydberg states
+  
