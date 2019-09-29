@@ -1,10 +1,13 @@
+# Veraltet, da non-website-publikationen.org geändert wurde
+# (Es wurden header eingefügt)
+
 import re
 
 list1_raw = []
 list2_raw = []
 list1 = []
 list2 = []
-with open("./non-website-publikationen.txt", 'r') as readlist1:
+with open("./publikationen.txt", 'r') as readlist1:
     list1_raw = (readlist1.readlines())
 
 for item in list1_raw:
@@ -16,7 +19,7 @@ for item in list1_raw:
         # print(item)
         list1.append(item)
 
-with open("./non-website-publikationen2.org", 'r') as readlist2:
+with open("./non-website-publikationen.org", 'r') as readlist2:
     list2_raw = (readlist2.readlines())
 
 
@@ -45,6 +48,7 @@ for item in list2:
 
 final = (list1 + not_in_1)# .sort(key=str.lower)
 
-print(len(list1), '\n', len(not_in_1), '\n', len(final))
+print(len(list2))
+# print(len(list1), '\n', len(not_in_1), '\n', len(final))
 # with open("./non-website-publikationen-final.txt", 'w') as finallist:
 #     finallist.writelines(final)

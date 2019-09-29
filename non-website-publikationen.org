@@ -1,3 +1,5 @@
+Bücher:
+______________________________
 * TODO Statistical Benchmarks for Quantum Transport in Complex Systems
 * TODO Normal-mode quantum electrodynamics: the quantum vacuum and its consequences
 * TODO Casimir forces at the cutting edge
@@ -5,6 +7,9 @@
 * TODO Entanglement and Decoherence: Foundations and Modern Trends
 * TODO Mathematische Grundlagen der Quantenmechanik (Mathematical Foundations of Quantum Mechanics) and Quantencomputer (Quantum Computer)
 
+
+Publikationen:
+______________________________
 * TODO Atomic Gears:Transferring the spin of light to lateral van der Waals forces
 * TODO Direct measurement of short-range forces with a levitated nanoparticle
 * TODO Non-additivity of optical and Casimir-Polder potentials

@@ -1,7 +1,5 @@
-- Mit oder ohne Dateiupload - Nein, nur optionalX
+- Mit oder ohne Dateiupload - Nein, nur optional
 - Autorspezifikation- nein
 - Institutionen - 3307
 - Beteiligte Körperschaft
 - Abstracts - Nein
-- 
-
