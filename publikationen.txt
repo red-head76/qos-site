@@ -1,11 +1,11 @@
 1 Statistical Benchmarks for Quantum Transport in Complex Systems
-2
-3
+2 Dynamics and Characterization of Composite Quantum Systems
+3 Quantum-Enhanced Nonlinear Spectroscopy
 4 Normal-mode quantum electrodynamics: the quantum vacuum and its consequences
 5 Casimir forces at the cutting edge
 6 Proceedings of New Perspectives in Quantum Statistics and Correlations
 7 Entanglement and Decoherence: Foundations and Modern Trends
-8 
+8 Mathematische Grundlagen der Quantenmechanik (Mathematical Foundations of Quantum Mechanics) and Quantencomputer (Quantum Computer)
 9 Fast and optimal generation of entanglement in bosonic Josephson junctions
 10 Revealing short-range non-Newtonian gravity through Casimir-Polder shielding
 11 The virtual photon approximation for three-body interatomic Coulombic decay
@@ -13,8 +13,8 @@
 13 Many-body Multifractality throughout Bosonic Superfluid and Mott  Insulator Phases 
 14 Entanglement protection of high-dimensional states by adaptive optics 
 15 Quantum annealing with disorder 
-16 Impact of effective polarisability models on the predicted release  dynamics of CH
-17 
+16 Impact of effective polarisability models on the predicted release  dynamics of CH and CO2 from premelted ice
+17
 18 Inducing and controlling rotation on small objects using photonic  topological materials
 19 Atomic Gears:  Transferring the spin of light to lateral van der Waals forces
 20 Lateral Casimir-Polder forces by breaking time-reversal symmetry
@@ -23,6 +23,9 @@
 23 Cavity-QED interactions of two correlated atoms
 24 Manipulating the Coulomb interaction: A Green's function perspective
 25 Quantum Friction in Arbitrarily Directed Motion
+
+2018
+_____________________________________________________________________________
 26 Coherence turned on by incoherent light
 27 Direct measurement of the electrostatic image force of a levitated charged nanoparticle close to a surface
 28 Restoring the Heisenberg limit via collective non-Markovian  dephasing
@@ -44,12 +47,15 @@
 44 Experimental statistical signature of many-body quantum interference
 45 Protecting the entanglement of twisted photons by adaptive optics
 46 Diffraction-induced entanglement loss of orbital-angular-momentum states
+
+2017
+___________________________________________________________________________________
 47 Open system model for quantum dynamical maps with classical noise and  corresponding master equations 
 48 Multifractality in Fock space of the ground state of the Bose-Hubbard Hamiltonian
 49 Effective Polarisability Models
 50 Many-particle interference in a two-component bosonic Josephson  junction: an all-optical simulation
 51 Casimir-Lifshitz Force for Nonreciprocal Media and Applications to  Photonic Topological Insulators
-52 High-
+52 High-- and low-conductance NMDA receptors are present in layer 4 spiny stellate and layer 2/3 pyramidal neurons of mouse barrel cortex
 53 Fluctuation Analysis in Nonstationary Conditions: Single Ca2+ Channel Current in Pyramidal Neurons
 54 Multifractal finite-size scaling at the Anderson transition in the unitary symmetry class
 55 Cooperative scattering of scalar waves by optimized configurations of  point scatterers
@@ -59,7 +65,7 @@
 59 Reconstruction of Casimir—Polder           interactions from matter-wave interference experiments
 60 Reversed interplay of quantum interference and which-way information in  multi-photon entangled states
 61 Semiclassical asymptotics of the Aharonov-Bohm interference process
-62 
+62 Wie Resonanz emergiert: Antworten aus der Physik
 63 Impact of dispersion forces on matter-wave scattering near a dielectric disk
 64 The Local Detection Method: Dynamical Detection of Quantum Discord with Local Operations
 65 Local probe of single phonon dynamics in warm ion crystals
@@ -69,10 +75,13 @@
 69 Using coherence to enhance function in chemical and biophysical systems
 70 Casimir-Polder shifts on quantum levitation states
 71 On optimal currents of indistinguishable particles
-72 
+72 Casimir-Polder shift and decay rate in the presence of nonreciprocal media
 73 
 74 Theory of coherent control with quantum light
 75 Quantum and thermal phase transitions in a bosonic atom-molecule mixture in a two-dimensional optical lattice
+
+2016
+___________________________________________________________________________________
 76 Phase diagram of a graphene bilayer in the zero-energy Landau level
 77 Spectroscopic signatures of quantum friction 
 78 Measuring correlations of cold atom systems using multiple quantum  probes
@@ -99,6 +108,9 @@
 99 Statistical Benchmark for BosonSampling
 100 Quantum Transport on&nbsp;Disordered and Noisy Networks: An&nbsp;Interplay of Structural&nbsp;Complexity and Uncertainty
 101 Performances and robustness of quantum teleportation with identical particles
+
+2015
+_______________________________________________________________________________
 102 Electromagnetic Green's function for layered topological insulators
 103 Directional spontaneous emission and lateral Casimir-Polder force on an atom close to&nbsp;a nanofiber
 104 Casimir–Polder interaction from exact diagonalization and surface-induced state mixing
@@ -107,17 +119,24 @@
 107 Non-perturbative theory of dispersion interactions
 108 Trends of CO2 adsorption on cellulose due to van der Waals forces
 109 Edge structure of Graphene monolayers in the ν = 0 quantum Hall state
+Entanglement evolution of twisted photons in strong atmospheric turbulence
 110 On the derivation of the semiclassical approximation to the quantum propagator
 111 Robust asymptotic entanglement under multipartite collective dephasing
 112 Matter-wave scattering from strongly interacting bosons in an optical lattice
 113 Probing polariton dynamics in trapped ions with phase-coherent two-dimensional spectroscopy
 114 Statistical theory of designed quantum transport across disordered networks
+Kondo effect and the fate of bistability in molecular quantum dots with strong electron-phonon coupling
+Quantum teleportation with identical particles
+Universal entanglement decay in atmospheric turbulence
 115 Frequency correlations in reflection from random media
 116 Extracting partial decay rates of helium from complex rotation: autoionizing resonances of the one-dimensional configurations
+
+2014
+______________________________________________________________________________
 117 Interference of identical particles from entanglement to boson-sampling
 118 Casimir forces in a plasma: possible connections to                   Yukawa potentials
 119 Probing atom-surface interactions by diffraction of                   Bose-Einstein condensates
-120 A standardised, holistic framework for concept-map                   analysis combining topological attributes
+120 A standardised, holistic framework for concept-map                   analysis combining topological attributes and global morphologies
 121 Spectral Backbone of Excitation Transport in Ultra-Cold Rydberg Gases
 122 Comment on "Non-monotonic projection probabilities as a function of distinguishability"
 123 Coherent inelastic backscattering of laser light from three isotropic atoms
@@ -136,6 +155,11 @@
 136 Characterizing high-n quasi-one-dimensional strontium Rydberg atoms
 137 Stabilizing entanglement in the presence of local decay processes
 138 Local detection of quantum correlations with a single trapped ion
+
+2013
+___________________________________________________________________________________
+Microscopic scattering theory for interacting bosons in weak random potentials
+Coherence in a network of two-level systems coupled to a bosonic field
 139 Quantum phase space representation for curved configuration spaces
 140 Optimally designed quantum transport across disordered networks
 141 Frustration, Entanglement, and Correlations in Quantum Many Body Systems
@@ -157,6 +181,9 @@
 157  Universality in open system entanglement dynamics
 158 Entanglement of identical particles and the detection process
 159 Nonmonotonic quantum-to-classical transition in multiparticle interference
+
+2012
+________________________________________________________________________________
 160 Many-body entanglement: Permutations and equivalence classes 
 161 Coherent Forward Scattering Peak Induced by Anderson Localization 
 162 Weak disorder corrections of the scattering and transport mean free path
@@ -178,6 +205,9 @@
 178 Coherent Backscattering of Ultracold Matter Waves: Momentum Space Signatures
 179 Optimal teleportation with a noisy source
 180 Weak localization with nonlinear bosonic matter waves
+
+2011
+__________
 181 Disorder-assisted exciton transport
 182 Essential entanglement for atomic and molecular physics 
 183 Optimal networks for excitonic energy transport 
@@ -193,9 +223,17 @@
 193 Quantum correlations in the two-photon decay of few-electron ions
 194 Localization of a matter wave packet in a disordered potential
 195 Efficient and coherent excitation transfer across disordered molecular networks
-196 
+196
+
+____
+Number-conserving master equation theory for a dilute Bose-Einstein condensate
+____
+
 197 
 198 Feasibility of approximating spatial and local entanglement in long-range interacting systems using the extended Hubbard model
+
+2010
+__________
 199 Hubbard model as an approximation to the entanglement in nanostructures
 200 Quantum dynamics in the bosonic Josephson junction
 201 Entanglement dynamics in open two-qubit systems via diffusive quantum trajectories
@@ -213,6 +251,13 @@
 213 Detection of high-dimensional genuine multi-partite entanglement of mixed state
 214 Robust entangled state
 215 Speckle Instability: Coherent Effects in Nonlinear Disordered Media
+
+2009
+__________
+____
+The pump-probe approach to coherent backscattering of intense laser light from cold atoms
+____
+
 216 Solitonic eigenstates of the chaotic Bose–Hubbard Hamiltonian
 217 Coherent propagation of waves in dilute random media with weak nonlinearity
 218  Occupation Statistics of a Bose-Einstein Condensate for a Driven Landau-Zener Crossing 
@@ -226,19 +271,29 @@
 226 Scalability of GHZ and random-state entanglement in the presence of decoherence 
 227  Wave-packet dynamics in energy space of a chaotic trimeric Bose-Hubbard system
 228 Coherent scattering from a free gas
+
+2008
+__________
 229 Experimental Direct Observation of Mixed State Entanglement
 230 Nonlinear Coherent Transport of Waves in Disordered Media
 231 Liquid surface waves in parabolic tanks
 232 Entanglement Evolution in Finite Dimensions
 233 Coherent Backscattering of Bose-Einstein Condensates in Two-Dimensional Disorder Potentials
-234 
+
+____
+234 Experimental investigation of the dynamics of entanglement: Sudden death, complementarity, and continuous monitoring of the environment
+____
+
 235 Single-Particle Interference Can Witness Bipartite Entanglement
 236 Scalable method to estimate experimentally the entanglement of multipartite systems
 237  Controlled quantum stirring of Bose-Einstein condensates
 238  Control of atomic currents using a quantum stirring device
 239 Quantum Nonlocality and Partial Transposition for Continuous-Variable Systems
 240 Evolution equation for quantum entanglement
-241 Ab initio quantum approach to planar helium under periodic driving
+241 Ab initio quantum approach to planar helium under periodic driving2
+
+2007
+__________
 242 Spectrum of coherently backscattered light from two atoms
 243 The driven three body Coulomb problem
 244 Universal quantum computation in decoherence-free subspaces with hot trapped ions
@@ -247,9 +302,17 @@
 247 Experimental determination of entanglement by a projective measurement
 248 Entanglement screening by nonlinear resonances
 249 Entanglement dynamics under decoherence: from qubits to qudits
+
+2006
+__________
 250 Persistent current of atoms in a ring optical lattice
 251 Evaluable multipartite entanglement measures: Mulitpartite concurrences as entanglement monotones
 252 Resonance-assisted decay of nondispersive wave packets
+
+___
+Quantum chaos, transport and control - in quantum optics
+___
+
 253 Anomalous slow fidelity decay for symmetry-breaking perturbations
 254 Elastic versus inelastic coherent backscattering of laser light by cold atoms: A master-equation treatment
 255 Fano interference and cross-section fluctuations in molecular dissociation
@@ -259,6 +322,9 @@
 259 Saturation of fidelity in the atom-optics kicked rotor
 260 Semiclassical Propagator of the Wigner Function
 261 Atomic current across an optical lattice
+
+2005
+__________
 262 Universal ionization threshold for strongly driven Rydberg states
 263 Ericson Fluctuations in an Open Deterministic Quantum System: Theory Meets Experiment
 264 Concurrence of mixed multipartite quantum states
@@ -269,6 +335,13 @@
 269 Measures and dynamics of entangled states
 270 Equlibrium entanglement vanishes at finite temperature
 271 Temperature Dependence of the Superconducting Gap in High-Tc Cuprates
+
+____
+Ordnung dank Chaos
+____
+
+2004
+__________
 272 Decay rates of planar helium
 273 Coherent Inelastic Backscattering of Intense Laser Light by Cold Atoms
 274 Hypothesis of two-dimensional stripe arrangement and its implications for the superconductivity in high-Tc cuprates
@@ -286,6 +359,9 @@
 286 Classical Scaling Theory of Quantum Resonances
 287 Wehrl entropy, Lieb conjecture, and entanglement monotones
 288 Stochastic Resonance
+
+2003
+__________
 289 Interaction-Induced Decoherence of Atomic Bloch Oscillations
 290 Floquet-Bloch operator for the Bose-Hubbard model with static field
 291 Quantum diffusion in a biased kicked Harper system
@@ -298,6 +374,9 @@
 298 Entanglement of 2xK quantum systems
 299 Nondispersive two-electron wavepackets in driven helium
 300 Coherent backscattering of light by cold atoms: Theory meets experiment
+
+2002
+__________
 301 Decay Rates and Survival Probabilities in Open Quantum Systems
 302 Microwave ionization of alkali-metal Rydberg states in a realistic numerical experiment
 303 Atomic state reduction and energy balance relation in spectrally resolved resonance fluorescence
@@ -310,37 +389,74 @@
 310  Chaotic ionization of non-classical alkali Rydberg states - computational physics beats experiment
 311 Spectral cross correlations of magnetic edge states
 312 Optical chaos in nonlinear photonic crystals
+
+2001
+__________
 313 Signatures of Anderson localization in the ionization rates of periodically driven Rydberg states
 314 Empirical properties of the variety of a financial portfolio and the  single-index- model
 315 Separable approximation for mixed states of composite quantum systems
 316 Bistability and stochastic resonance in an open quantum system
-317  Chaotic ionization of nonhydrogenic alkali Rydberg states
+317 Chaotic ionization of nonhydrogenic alkali Rydberg states
+
+____
+The exterior and interior edge states of magnetic billiards: spectral statistics and correlations
+____
+
 318 Weak localization of light by cold atoms: The impact of quantum internal structure
 319 Algebraic decay of the survival probability in chaotic helium
+
+2000
+__________
 320 Residual Symmetries in the spectrum of periodically driven alkali Rydberg states
 321 The boundary integral method for magnetic billiards
 322 Quantum state preparation via asymptotic completeness
 323 Stochastic resonance in the coherence of a quantum system
+
+1999
+__________
 324 Nondispersive two-electron wave packets in the collinear driven helium atom
 325 Stable classical configurations in strongly driven helium
 326 Stochastic resonance in a fundamental quantum system
 327 Comment on "Physical Reality of Light-Induced Atomic States
 328 Quasiclassical dynamics of resonantly driven Rydberg states
+
+1998
+__________
 329 Classical support for non-dispersive two-electron wave packets in the driven helium atom
 330 Quantum stochastic resonance in a micromaser
 331 Radiative decay of nondispersive wave packets
 332 Conductance fluctuations in microwave-driven Rydberg atoms
 333 Ionization via chaos assisted tunneling
+
+1997
+__________
 334 Nondispersive wave packets as solitonic solutions of level dynamics
 335 Comment on "New states of hydrogen in a circularly polarized elecromagnetic field"
 336 Secular motion of three-dimensional Rydberg states in a microwave field
+
+1995
+__________
 337 Microwave ionization of 3-d hydrogen atoms in a realistic numerical experiment
+
+____
+A wave packet can be a stationary state
+_____
+
 338 Nondispersive electronic wave packets in multiphoton processes
 339 From coherent to noise-induced microwave ionization of Rydberg atoms
-340  Multiple time scales in the microwave ionization of Rydberg atoms
+340 Multiple time scales in the microwave ionization of Rydberg atoms
 341 Spectral aspects of the microwave ionization of atomic Rydberg states
+
+1994-1990
+______________
+Classical and quantum chaos in atomic systems
+____
 342 Wave functions of atomic resonances
 343 Quantum dynamics of a circular Rydberg state in a microwave field
 344 Dynamical localization in more than one dimension
 345 Experimental study of quantum and classical limits in the microwave ionization of rubidium Rydberg states
 346 Dynamical localization in the microwave interaction of Rydberg atoms: The influence of noise
+
+____
+Rabi-nutations of four- and six-photon transitions between Rydberg states
+____
