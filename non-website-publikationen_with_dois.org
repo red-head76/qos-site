@@ -1,0 +1,230 @@
+Multifractality in Fock space of the ground state of the Bose-Hubbard Hamiltonian
+10.12693/aphyspola.132.1683
+Comment on "Non-monotonic projection probabilities as a function of distinguishability"
+10.1088/1367-2630/16/1/013006
+Optimally designed quantum transport across disordered networks
+10.1103/physrevlett.111.180601
+Production of very-high-n strontium Rydberg atoms
+10.1088/1742-6596/875/3/022001
+Quantum transport in biological functional units: noise, disorder, structure
+10.1142/s0219477513400075
+Disorder-assisted exciton transport
+10.12693/aphyspola.120.a-89
+Entanglement from density measurements: Analytical density functional for the entanglement of strongly correlated fermions
+10.1103/physreva.83.042311
+Quantum Mechanics in Metric Space: Wave Functions and Their Densities
+10.1103/physrevlett.106.050401
+Feasibility of approximating spatial and local entanglement in long-range interacting systems using the extended Hubbard model
+10.1209/0295-5075/93/10001
+Hubbard model as an approximation to the entanglement in nanostructures
+10.1103/physreva.81.052321
+Single-Particle Interference Can Witness Bipartite Entanglement
+10.1209/0295-5075/83/60006
+Spectrum of coherently backscattered light from two atoms
+10.1103/physreva.76.043832
+The driven three body Coulomb problem
+10.1017/S096012950700596
+Universal quantum computation in decoherence-free subspaces with hot trapped ions
+10.1103/physreva.75.052337
+Optimal dynamical characterization of entanglement
+10.1103/physrevlett.98.190501
+Observable entanglement measure for mixed quantum states
+10.1103/physrevlett.98.140505
+Experimental determination of entanglement by a projective measurement
+10.1364/icqi.2007.ithf2
+Entanglement screening by nonlinear resonances
+10.1103/physrevlett.98.120504
+Entanglement dynamics under decoherence: from qubits to qudits
+10.1140/epjd/e2006-00246-4
+Persistent current of atoms in a ring optical lattice
+10.1088/1367-2630/8/9/197 
+Evaluable multipartite entanglement measures: Mulitpartite concurrences as entanglement monotones
+10.1103/physreva.74.052303 
+Resonance-assisted decay of nondispersive wave packets
+10.1103/physrevlett.97.043001
+Anomalous slow fidelity decay for symmetry-breaking perturbations
+10.1103/physrevlett.96.244105
+Elastic versus inelastic coherent backscattering of laser light by cold atoms: A master-equation treatment
+10.1103/physreva.73.063813
+Fano interference and cross-section fluctuations in molecular dissociation
+10.1103/physreva.73.042711
+Scattering fidelity in elastodynamics
+10.1103/physreve.73.015202
+Quantum Accelerator Modes from the Farey Tree
+10.1103/physrevlett.96.164101
+Experimental determination of entanglement with a single measurement
+10.1038/nature04627
+Saturation of fidelity in the atom-optics kicked rotor
+10.1088/0953-4075/39/7/l01
+Semiclassical Propagator of the Wigner Function
+10.1103/physrevlett.96.070403
+Atomic current across an optical lattice
+10.1103/physrevlett.96.050404
+Universal ionization threshold for strongly driven Rydberg states
+10.1103/physreva.72.061402
+Ericson Fluctuations in an Open Deterministic Quantum System: Theory Meets Experiment
+10.1103/physrevlett.95.263601
+Concurrence of mixed multipartite quantum states
+10.1103/physrevlett.95.260502
+Nonlinearity-induced destruction of resonant tunneling in the Wannier-Stark problem
+10.1103/physreva.72.063610
+Long-range fluctuations of random potential landscape as a mechanism of 1/f noise in hydrogenated amorphous silicon
+10.1142/s0219477505002872
+Long-Time Behavior of Spin Echo
+10.1103/physrevlett.94.247601
+Concurrence of quasipure quantum states
+10.1103/physreva.72.012336
+Measures and dynamics of entangled states
+10.1016/j.physrep.2005.04.006
+Equlibrium entanglement vanishes at finite temperature
+10.1103/physrevb.71.153105
+Temperature Dependence of the Superconducting Gap in High-Tc Cuprates
+10.1103/PhysRevLett.94.157005
+Ordnung dank Chaos
+???
+https://www.pro-physik.de/restricted-files/104866
+
+Decay rates of planar helium
+10.1209/epl/i2004-10474-0
+Coherent Inelastic Backscattering of Intense Laser Light by Cold Atoms
+10.1103/physrevlett.94.043603
+Hypothesis of two-dimensional stripe arrangement and its implications for the superconductivity in high-Tc cuprates
+10.1103/physrevb.70.224508
+Decoherence and Multipartite Entanglement
+10.1103/physrevlett.93.230501
+Quantum chaos in the Bose-Hubbard model
+10.1209/epl/i2004-10265-7
+Web-assisted tunneling in the kicked harmonic oscillator
+10.1103/physrevlett.93.204101
+Interference of cold atoms released from an optical lattice
+10.1209/epl/i2004-10212-8
+Environmental effects in the quantum-classical transition for the delta-kicked harmonic oscillator
+10.1103/physreve.70.026211
+Multiparticle quantum chaos in tilted optical lattices
+10.1080/09500340408233615
+The noise makes the signal: what a small fry should know about stochastic resonance
+10.1080/09500340408233602
+Long-time relaxation on spin lattice as a manifestation of chaotic dynamics
+10.1142/s0217979204024689
+New experimental evidence for the role of long-range potential fluctuations in the mechanism of 1/f noise in a-Si:H
+10.1016/j.jnoncrysol.2004.02.092
+Concurrence of Mixed Bipartite Quantum States in Arbitrary Dimensions
+10.1103/physrevlett.92.167902
+
+Decoherence as a probe of coherent quantum dynamics 
+10.1103/physreve.69.027201 
+Classical Scaling Theory of Quantum Resonances 
+10.1103/physrevlett.92.084102 
+Wehrl entropy, Lieb conjecture, and entanglement monotones 
+10.1103/physreva.69.022317
+Stochastic Resonance (2004!) 
+10.1088/0034-4885/67/1/R02
+Interaction-Induced Decoherence of Atomic Bloch Oscillations 
+10.1103/physrevlett.91.253002 
+Floquet-Bloch operator for the Bose-Hubbard model with static field 
+10.1103/physreve.68.056213
+Quantum diffusion in a biased kicked Harper system 
+10.1103/physreve.68.046202 
+Universal Long-Time Relaxation on Lattices of Classical Spins: Markovian Behavior on Non-Markovian Timescales 10.1023/A:1023639906726
+Long-range potential fluctuations and 1/f noise in hydrogenated amorphous silicon 
+10.1117/12.503729 
+Bloch oscillations of cold atoms in 2D optical lattices 
+10.1103/PhysRevA.67.063601
+Decay, interference and chaos: How simple atoms mimic disorder 
+10.1140/epjd/e2003-00199-0
+New Bloch Period for Interacting Cold Atoms in 1D Optical Lattices 
+10.1103/physrevlett.90.213002
+Quantum resonances and decoherence for delta-kicked atoms 
+10.1088/0951-7715/16/4/312 
+Entanglement of 2xK quantum systems 
+10.1209/epl/i2003-00342-y
+Nondispersive two-electron wavepackets in driven helium 
+10.1140/epjd/e2003-00017-9
+Coherent backscattering of light by cold atoms: Theory meets experiment 
+10.1209/epl/i2003-00173-x 
+Decay Rates and Survival Probabilities in Open Quantum Systems 
+10.1103/physrevlett.89.263601 
+Microwave ionization of alkali-metal Rydberg states in a realistic numerical experiment 
+10.1103/physreva.66.053416
+Atomic state reduction and energy balance relation in spectrally resolved resonance fluorescence 
+10.1016/s0030-4018(02)01819-9
+Multiple scattering of light by atoms with internal degeneracy 
+10.1088/0305-4470/35/47/314 
+Stochastic Resonance 
+Coherent Evolution in Noisy Environments 
+10.1007/3-540-45855-7
+Non-dispersive wave packets in periodically driven quantum systems 
+10.1016/s0370-1573(02)00270-3
+Magnetic Edge States 
+10.1016/s0370-1573(02)00141-2
+Quantum State Control in Cavity QED 
+10.1007/3-540-46122-1_15 
+Chaotic ionization of non-classical alkali Rydberg states - computational physics beats experiment 
+10.1016/s0010-4655(02)00312-0 
+Spectral cross correlations of magnetic edge states 
+10.1103/physrevlett.88.024101
+Optical chaos in nonlinear photonic crystals
+10.1134/1.1525125 
+Signatures of Anderson localization in the ionization rates of periodically driven Rydberg states 10.1088/0305-4470/34/36/305
+mpirical properties of the variety of a financial portfolio and the single-index- model 
+10.1007/s100510170229
+Separable approximation for mixed states of composite quantum systems 
+10.1103/physreva.64.052302
+Bistability and stochastic resonance in an open quantum system 
+10.1016/s0301-0104(01)00291-9
+Chaotic ionization of nonhydrogenic alkali Rydberg states 
+10.1103/physrevlett.86.3538 
+The exterior and interior edge states of magnetic billiards: spectral statistics and correlations 
+10.1142/9789812811004_0010
+Weak localization of light by cold atoms: The impact of quantum internal structure 
+10.1103/physreva.64.053804
+Algebraic decay of the survival probability in chaotic helium 
+10.1103/physreva.63.024701
+Residual Symmetries in the spectrum of periodically driven alkali Rydberg states 
+10.1209/epl/i2000-00131-8
+The boundary integral method for magnetic billiards 
+10.1088/0305-4470/33/14/315
+Quantum state preparation via asymptotic completeness 
+10.1103/physrevlett.85.3361
+Stochastic resonance in the coherence of a quantum system 
+10.1103/physrevlett.84.5118
+Nondispersive two-electron wave packets in the collinear driven helium atom 
+10.1209/epl/i1999-00557-x
+Stable classical configurations in strongly driven helium 
+10.1016/s0167-2789(98)00223-1 
+Stochastic resonance in a fundamental quantum system 
+10.1088/0305-4470/32/15/015
+Comment on "Physical Reality of Light-Induced Atomic States 
+10.1103/physrevlett.82.664
+Quasiclassical dynamics of resonantly driven Rydberg states 
+10.1007/s100530050238
+Classical support for non-dispersive two-electron wave packets in the driven helium atom 
+10.1088/0953-4075/31/11/003 
+Quantum stochastic resonance in a micromaser 
+10.1103/physrevlett.80.3932
+Radiative decay of nondispersive wave packets 
+10.1209/epl/i1998-00161-8
+Conductance fluctuations in microwave-driven Rydberg atoms 
+10.1209/epl/i1998-00451-1
+Ionization via chaos assisted tunneling 
+10.1103/physreve.57.1458
+Nondispersive wave packets as solitonic solutions of level dynamics 
+10.1007/s002570050343
+Comment on "New states of hydrogen in a circularly polarized elecromagnetic field" 
+10.1103/physrevlett.79.3541
+Secular motion of three-dimensional Rydberg states in a microwave field 
+10.1103/physreva.55.r1585
+Microwave ionization of 3-d hydrogen atoms in a realistic numerical experiment 
+10.1364/josab.12.000505 
+A wave packet can be a stationary state 
+10.1209/0295-5075/32/2/003
+Nondispersive electronic wave packets in multiphoton processes 
+10.1103/physrevlett.75.1487 
+From coherent to noise-induced microwave ionization of Rydberg atoms 
+10.1103/physreva.51.4862
+Multiple time scales in the microwave ionization of Rydberg atoms 
+10.1103/physrevlett.75.3818 
+Spectral aspects of the microwave ionization of atomic Rydberg states 
+10.1016/0960-0779(94)e0058-w 
+Wave functions of atomic resonances 
+10.1088/0953-4075/27/13/001 

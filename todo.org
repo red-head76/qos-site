@@ -1,8 +1,8 @@
-* Publikationen von waybackmachine in Freidoks
+* TODO Publikationen von waybackmachine in Freidoks
 ** Dafür Zugang von Freidoks erwerben
-* Grafische Oberfläche aufpeppeln (Plone)
+* TODO Grafische Oberfläche aufpeppeln (Plone)
 ** Logo einsetzen
-* Personenliste aktualisieren
+* TODO Personenliste aktualisieren
 ** Alumniliste separat
-* Liste Publikationen checken
-* URL Website
+* DONE Liste Publikationen checken
+* TODO URL Website
